@@ -1,4 +1,4 @@
-//WAP to check whether the string is palindrome or not.
+//WAP to check whether the number is prime or not
 #include<iostream>
 using namespace std;
 int main()
